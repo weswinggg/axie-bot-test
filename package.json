@@ -1,0 +1,16 @@
+{
+  "name": "axie-bot",
+  "version": "1.0.0",
+  "description": "bot for axie basic infos",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
